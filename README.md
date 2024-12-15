@@ -1,8 +1,6 @@
 # PRATEEK POUDEL
 
-**`CS Student | Backend Developer`**
-
-I am a CS student from Nepal with a focus on backend development and a passion for competitive programming. Seeking opportunities to work/collaborate !!
+**`CS Student`**
 
 ---
 
